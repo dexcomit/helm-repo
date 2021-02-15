@@ -3,7 +3,30 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.6.2
-    created: "2021-02-14T22:59:07.955697-05:00"
+    created: "2021-02-14T23:17:04.617713-05:00"
+    description: Official HashiCorp Vault Chart
+    digest: 79e9ee24a4ceccc088b1b78297c75d00406cdad9e81559c6b1ea6f60faab65d6
+    home: https://www.vaultproject.io
+    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
+    keywords:
+    - vault
+    - security
+    - encryption
+    - secrets
+    - management
+    - automation
+    - infrastructure
+    name: vault
+    sources:
+    - https://github.com/hashicorp/vault
+    - https://github.com/hashicorp/vault-helm
+    - https://github.com/hashicorp/vault-k8s
+    urls:
+    - vault-0.9.2.tgz
+    version: 0.9.2
+  - apiVersion: v2
+    appVersion: 1.6.2
+    created: "2021-02-14T23:17:04.61478-05:00"
     description: Official HashiCorp Vault Chart
     digest: 559f549a32f80ffe1b6ed092dfd3655d135d35212ebef67faa8edd9ca38212e3
     home: https://www.vaultproject.io
@@ -24,27 +47,4 @@ entries:
     urls:
     - vault-0.9.1.tgz
     version: 0.9.1
-  - apiVersion: v2
-    appVersion: 1.6.2
-    created: "2021-02-14T22:59:07.959026-05:00"
-    description: Official HashiCorp Vault Chart
-    digest: 9db6990b5ccd6057f5830ecead6e8aca29ef9e573bed27cf61d2aa5fd8024b29
-    home: https://www.vaultproject.io
-    icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
-    keywords:
-    - vault
-    - security
-    - encryption
-    - secrets
-    - management
-    - automation
-    - infrastructure
-    name: vault
-    sources:
-    - https://github.com/hashicorp/vault
-    - https://github.com/hashicorp/vault-helm
-    - https://github.com/hashicorp/vault-k8s
-    urls:
-    - vault-0.9.1_dexcom1.tgz
-    version: 0.9.1_dexcom1
-generated: "2021-02-14T22:59:07.953433-05:00"
+generated: "2021-02-14T23:17:04.612533-05:00"
