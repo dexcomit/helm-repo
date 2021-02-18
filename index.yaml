@@ -3,9 +3,9 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.6.2
-    created: "2021-02-17T20:45:46.551811-05:00"
+    created: "2021-02-17T21:16:17.070619-05:00"
     description: Official HashiCorp Vault Chart
-    digest: 03cde4f6681e7357c4596a173c81df2c47c99ccb2e07bf123f0809577fe12c5b
+    digest: c2bac809b1e1761b9d8f65299aae875753859a84f174de8b8f6147c53a4cbfce
     home: https://www.vaultproject.io
     icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
     keywords:
@@ -26,7 +26,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 1.6.2
-    created: "2021-02-17T20:45:46.548867-05:00"
+    created: "2021-02-17T21:16:17.067484-05:00"
     description: Official HashiCorp Vault Chart
     digest: 559f549a32f80ffe1b6ed092dfd3655d135d35212ebef67faa8edd9ca38212e3
     home: https://www.vaultproject.io
@@ -47,4 +47,4 @@ entries:
     urls:
     - vault-0.9.1.tgz
     version: 0.9.1
-generated: "2021-02-17T20:45:46.546657-05:00"
+generated: "2021-02-17T21:16:17.062843-05:00"
